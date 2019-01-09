@@ -50,7 +50,7 @@ Example Input | Example Output
 
 ## TODO 
 
-- [ ] Please write an algorithm to solve this instance.
+- [ ] Please write an algorithm to solve [this instance](https://github.com/rbaiam/optimization/blob/master/instance.txt) 
 - [ ] Please do not use optimization solvers (e.g. Cplex) and implement your own algorithm
 - [ ] Please send your code with a small description how to run it against the proposed instance.
 

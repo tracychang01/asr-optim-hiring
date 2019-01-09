@@ -20,9 +20,9 @@ Your task is to maximize the amount of money that CVCM makes during the restruct
 The input consists of several test cases. Each test case starts with a line containing three positive
 integers N , C , and D . 
 
-- N is the number of machines for sale (N ≤ 10^5), 
-- C is the number of dollars with which the company begins the restructuring (C ≤ 10^9), 
-- and D is the number of days that the restructuring lasts ( D ≤ 10^9).
+- N is the number of machines for sale (N ≤ 100), 
+- C is the number of dollars with which the company begins the restructuring (C ≤ 100), 
+- and D is the number of days that the restructuring lasts ( D ≤ 100).
 
 Each of the next N lines describes a single machine for sale. Each line contains four integers:
 
@@ -34,8 +34,8 @@ Each of the next N lines describes a single machine for sale. Each line contains
 These numbers satisfy the following conditions:
 
 - 1 ≤ `D_i` ≤ D
-- 1 ≤ `R_i` < `P_i` ≤ 10^9
-- 1 ≤ `G_i` ≤ 10^9
+- 1 ≤ `R_i` < `P_i` ≤ 100
+- 1 ≤ `G_i` ≤ 100
 
 The last test case is followed by a line containing three zeros.
 

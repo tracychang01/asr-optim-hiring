@@ -50,9 +50,11 @@ Example Input | Example Output
 
 ## TODO 
 
-- [ ] Please write an algorithm to solve [this instance](https://github.com/rbaiam/optimization/blob/master/instance.txt) 
+- [ ] Please fork this repository
+- [ ] Please write an algorithm to solve [this instance](https://github.com/amadeus-inr/asr-optim-hiring/blob/master/instance.txt) 
 - [ ] Please do not use optimization solvers (e.g. Cplex) and implement your own algorithm
-- [ ] Please send your code with a small description how to run it against the proposed instance.
+- [ ] Please share yourcode on your fork with a small description how to run it against the proposed instance.
+- [ ] Please desscribe in a short document your analysis of the problem and an assessment of your solution
 
 It is preferable that you write this algorithm using JAVA. It is OK if you want to use another programming language e.g. C++.
 
